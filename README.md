@@ -23,6 +23,8 @@
 
 [如何招聘程序员](https://github.com/lietoumai/Hunter/issues/46)
 
+[雇主招程序员时，看中哪些核心竞争力？](https://github.com/lietoumai/Career/issues/32)
+
 ### 关于简历
 [精益简历之道-改善技术简历的47条原则](https://github.com/lietoumai/Hunter/issues/9)
 
@@ -31,6 +33,11 @@
 [基于我15年简历分享经验而得来的最佳简历模板](https://github.com/lietoumai/Hunter/issues/16)
 
 [如果你的抬头并不能反映你的职务，你该如何写简历](https://github.com/lietoumai/Career/issues/15)
+
+[都说简历是一辈子的事，那凭什么呢？](http://lietoumai.com/article/resume)
+
+### 关于推荐
+[粗谈推荐人](https://github.com/lietoumai/To-be-a-Pythoneer/issues/160)
 
 ### 关于请假
 [总有一款适合您](https://www.douban.com/group/jiekou/)
@@ -44,7 +51,13 @@
 
 [重新审视面试-书摘](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhong-xin-kan-dai-mian-shi.html)
 
+[如何通过一些面试小细节去读懂一个公司？](http://lietoumai.com/article/14)
+
 ### 关于技术面试
+[算法面试巩固](https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms)
+
+[为工程师准备的 50 道数据结构和算法面试题](https://github.com/lietoumai/Awesome-offer/issues/58)
+
 [面试中如何展示自己](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/mian-shi-zhi-nan/ji-zhu-mian-shi/ru-he-zhun-bei-ji-zhu-mian-shi.html)
 
 [另类技术面试](https://github.com/lietoumai/Hunter/issues/5)
@@ -55,13 +68,13 @@
 
 [我最喜欢问应聘者的问题 & 回答思路](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/wo-zui-xi-huan-wen-ying-pin-zhe-de-wen-ti-and-hui-da-si-lu.html)
 
+[如何在面试中介绍自己的项目经验](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/mian-shi-zhi-nan/ji-zhu-mian-shi/zai-mian-shi-zhong-ru-he-jie-shao-xiang-mu-jing-li.html)
+
 [没有技术深度的苦恼](https://github.com/lietoumai/Hunter/issues/6)
 
 [十个有用的面试技巧](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/mian-shi-zhi-nan/ji-zhu-mian-shi/10ge-you-yong-de-mian-shi-ji-qiao.html)
 
 [让BAT的offer不再难拿](https://bestswifter.com/bat-interview/)
-
-[十个有用的面试技巧](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/mian-shi-zhi-nan/ji-zhu-mian-shi/10ge-you-yong-de-mian-shi-ji-qiao.html)
 
 [Facebook面试-DBA](http://cenalulu.github.io/mysql/how-i-become-a-facebook-dba/)
 
@@ -74,6 +87,8 @@
 [后端开发面试题](https://github.com/monklof/Back-End-Developer-Interview-Questions)
 
 [一些Java面试题](http://jasonlife.top/2017/11/16/26Java%E9%9D%A2%E8%AF%95%E9%A2%98/)
+
+[区块链面试宝典](https://chrislinn.gitbooks.io/blockchain-cheatsheet/content/)
 
 ### 关于薪酬
 [穷人or富人？算算你的时薪](https://github.com/lietoumai/Hunter/issues/42)
@@ -93,16 +108,26 @@
 
 [为什么有了offer再去谈offer会更好？](https://github.com/lietoumai/awesome-offer/issues/52)
 
+[关于试用期打折](https://github.com/lietoumai/Career/issues/29)
+
+[创业公司的offer到底接不接？](https://github.com/lietoumai/awesome-offer/issues/54)
+
 ### 关于离职
+[员工离职的34种形式与经济补偿计算对照表](https://github.com/lietoumai/Awesome-offer/issues/61)
+
 [离职申请范文](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/li-zhi-shen-qing-fan-wen.html)
 
 [程序员离职申请范文](https://github.com/lietoumai/Hunter/issues/48)
 
 [如何优雅的离职](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/ru-he-you-ya-de-ti-li-zhi.html)
 
-[如何得体的离职](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/zhi-wei-fa-bu/ru-he-zhuang-bing.html)
-
 [提了离职就走吧](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/li-zhi-xiang-guan/53ti-le-li-zhi-jiu-yao-zou.html)
+
+[如何离开你所热爱的工作](https://github.com/lietoumai/Career/issues/45)
+
+[除了投简历，离职期间还能做点什么](http://lietoumai.com/article/19)
+
+[失业阶段的一些建议](https://github.com/lietoumai/Awesome-offer/issues/62)
 
 ### 关于入职
 [简单三招让你融入新团队](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-zhi-xiang-guan/jian-dan-san-zhao-rang-ni-li-ma-rong-ru-xin-tuan-dui.html)
@@ -111,7 +136,7 @@
 
 [程序员如何尽快融入新团队](https://github.com/lietoumai/Hunter/issues/50)
 
-***
+[一些入职越早知道越好的小事](https://github.com/lietoumai/Reflection/issues/65)
 
 ### 关于跳槽
 [不断跳槽也能成功](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/bu-duan-tiao-cao-ye-neng-cheng-gong.html)
@@ -121,6 +146,17 @@
 [跳槽真的可以保证成功的职业生涯？](https://github.com/lietoumai/Hunter/issues/44)
 
 [我们为何要跳槽？](http://www.cnblogs.com/forerunner/p/why-we-quit.html)
+
+### 关于裁员
+[裁员后三大最常见心理创伤](https://github.com/lietoumai/Career/issues/41)
+
+[当裁员潮来临时，如何跟HR做好最后一轮谈判？](https://github.com/lietoumai/Career/issues/42)
+
+[关于劳动仲裁](http://www.360doc.com/content/16/0125/22/21180418_530550331.shtml)
+
+[关于劳动仲裁](http://www.360doc.com/content/16/0125/22/21180418_530550331.shtml)
+
+[关于劳动仲裁](http://www.360doc.com/content/16/0125/22/21180418_530550331.shtml)
 
 ***
 
@@ -168,6 +204,8 @@
 
 [如何处理优先级的问题](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/guan-yu-you-xian-ji-de-wen-ti.html)
 
+[在新城市如何交朋友](https://github.com/lietoumai/Career/issues/46)
+
 [3招打破挫败、压力和挣扎的死循环](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/san-zhao-da-po-cuo-bai-3001-ya-li-he-zheng-zha.html)
 
 [第一印象如此重要，这些加分项你怎能不知道？](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/gei-di-yi-yin-xiang-jia-fen.html)
@@ -180,9 +218,13 @@
 
 [生活中应该了解的事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/sheng-huo-zhong-ying-gai-le-jie-de-yi-xie-shi.html)
 
-[感谢那些讲话难听的人](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/gan-xie-na-xie-jiang-hua-nan-ting-de-ren.html)
+[感谢那些讲话难听的人](http://detian.me/2017/02/04/understanding-vision-mission-values/)
+
+[打造个人文化：理解愿景、使命、价值观](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/gan-xie-na-xie-jiang-hua-nan-ting-de-ren.html)
 
 [为什么做员工挺出色，做领导就很糟糕？](https://github.com/lietoumai/Career/issues/28)
+
+[领导收买人心只需要一句话](https://github.com/lietoumai/Career/issues/38)
 
 [作为自由职业者，你必须知道的20个赢利原则](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/chang-gui-sheng-ya/zuo-wei-zi-you-zhi-ye-zhe-ff0c-ni-bi-xu-zhi-dao-de-20-ge-ying-li-yuan-ze.html)
 
@@ -228,6 +270,28 @@
 
 [自动化将使终生学习成为工作的必要部分](https://github.com/lietoumai/Career/issues/27)
 
+[进入工作倦怠期？试试重塑工作，变“废”为宝](https://github.com/lietoumai/Career/issues/30)
+
+[柳传志的复盘论](https://github.com/lietoumai/Career/issues/31)
+
+[让你止步不前的不是舒适，而是服从](https://github.com/lietoumai/Career/issues/33)
+
+[灰度决策：如何处理复杂、棘手、高风险的难题](https://github.com/lietoumai/Career/issues/34)
+
+[顶撞上司四条原则](https://github.com/lietoumai/Career/issues/35)
+
+[如果工作不是为了名利，那是为了什么？](https://github.com/lietoumai/Career/issues/36)
+
+[提高情商的十条建议](https://github.com/lietoumai/Career/issues/39)
+
+[在加薪这件事上，能帮你的只有你自己](https://github.com/lietoumai/Career/issues/40)
+
+[如何停止过度思考](https://github.com/lietoumai/Career/issues/43)
+
+[YC主席的十三条成功建议](https://github.com/lietoumai/Awesome-offer/issues/55)
+
+[谈一点克服焦虑的心得](http://101.132.135.58/article/8)
+
 ### 软件行业
 [程序员影响力指南](https://github.com/lietoumai/Tech-article/issues/1)
 
@@ -238,6 +302,8 @@
 [最牛逼的编码套路](https://blog.csdn.net/happydeer/article/details/17023229)
 
 [程序员职业倦怠](https://github.com/lietoumai/Tech-article/issues/3)
+
+[跟着书籍学编程的5个小技巧](https://github.com/lietoumai/Awesome-offer/issues/59)
 
 [程序员生涯第一生存法则](https://github.com/lietoumai/Tech-article/issues/4)
 
@@ -295,7 +361,11 @@
 
 [程序员追求的是什么?](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/cheng-xu-yuan-zhui-qiu-de-shi-shi-yao-ff1f.html)
 
+[每个程序员都应该读两遍的十篇论文](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
+
 [如何参与一个Github的开源项目](https://www.csdn.net/article/2014-04-14/2819293-Contributing-to-Open-Source-on-GitHub)
+
+[git &github 快速入门](https://www.cnblogs.com/zero-white/p/8698750.html)
 
 [融入开源社区的4个建议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ru-he-zhang-xin-shui/ji-zhu-sheng-ya/rong-ru-kai-yuan-she-qu-de-4-tiao-jian-yi.html)
 
@@ -310,6 +380,16 @@
 [写好代码的十个技巧](https://github.com/lietoumai/Tech-article/issues/22)
 
 [Java就业指导](https://blog.csdn.net/jackfrued/article/details/45035097)
+
+[从零开始搭建创业公司后台技术栈](https://www.sruibox.com/article/45)
+
+[正念如何帮助工程师解决问题](https://github.com/lietoumai/Career/issues/44)
+
+[Apache顶级开源项目是怎样炼成的？](http://www.sohu.com/a/270412996_355140)
+
+[提高代码阅读能力的7种方法](https://github.com/lietoumai/Awesome-offer/issues/57)
+
+[了解开源文化](http://osteach.github.io/)
 
 ## *会有一些程序员感悟*
 [40岁程序员的感悟](https://github.com/lietoumai/Hunter/issues/7)
@@ -330,11 +410,17 @@
 
 [梁胜博士写给程序员的话](https://github.com/lietoumai/Chicken-Soup/issues/5)
 
+[技术编程人员成长的9个段位](https://www.flysnow.org/2019/01/21/development-growth-nine-segments.html)
+
 ## *会有一些技术文章*
-### 算法
 [算法（英文）](https://algs4.cs.princeton.edu/home/)
 
-### 后端
+[一致性算法Raft详解](http://www.solinx.co/archives/415)
+
+[图解Raft](http://thesecretlivesofdata.com/raft/)
+
+[史上最全大数据学习资源](https://yq.aliyun.com/articles/37308)
+
 [为什么我要用Node.js](https://github.com/lietoumai/Tech-article/issues/10)
 
 [Java 10年技术栈](https://github.com/lietoumai/Tech-article/issues/11)
@@ -345,17 +431,32 @@
 
 [Memcached vs Redis, 挑选哪一个？](https://github.com/lietoumai/Tech-article/issues/20)
 
+[互联网后台开发需要掌握什么？](https://www.cnblogs.com/aquester/p/9891462.html)
+
 [阿里巴巴Java开发手册](http://techforum-img.cn-hangzhou.oss-pub.aliyun-inc.com/Java_1512024443940.pdf)
 
-### 前端
-[浅谈Web自适应](https://github.com/lietoumai/Front-end/issues/1)
+[微服务架构集大成者—Spring Cloud](https://www.jianshu.com/p/3899d7f47303)
 
-[基于.Net Core 建造React Web 应用](https://github.com/lietoumai/Front-end/issues/2)
+[从java 到 kotlin，再从kotlin到java](https://www.oschina.net/translate/from-java-to-kotlin-and-back-again?lang=chs&p=1)
 
-### 未来
+[比较 Rust 和 Java](https://www.oschina.net/translate/comparing-rust-and-java)
+
+[Go语言成功了，Rust呢？](https://rust.cc/article/ff06e58b-fee3-4a07-aa91-1ba286e46478?parent_url=https%3A%2F%2Frust.cc%2Fsection%2Fc2511921-51f7-401f-a0c0-d3abcfa0631c)
+
+[Go项目汇总](http://www.cnblogs.com/kaid/p/9698615.html)
+
+[函数式编程很难，这正是你要学习它的原因](https://github.com/lietoumai/Awesome-offer/issues/60)
+
+[500个远程工作的工具](https://standuply.com/330-remote-work-tools0)
+
+### 科普&未来
+[编程语言快手入门](https://learnxinyminutes.com/)
+
 [从零学习人工智能](http://blog.jobbole.com/107495/)
 
 [图解机器学习](http://www.r2d3.us/%E5%9B%BE%E8%A7%A3%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/)
+
+[如何自学机器学习](https://elitedatascience.com/learn-machine-learning#what)
 
 [漫画区块链](http://www.sohu.com/a/162764647_673573)
 
@@ -369,8 +470,38 @@
 
 [区块链六大核心算法](https://github.com/lietoumai/Tech-article/issues/21)
 
+[小白看懂云计算，大数据，人工智能](https://www.cnblogs.com/popsuper1982/p/8505203.html)
+
+[将任意文件写入以太坊区块的方法](https://www.cnblogs.com/zdz8207/p/qkl-eth-event.html)
+
+[我为什么用GO语言来做区块链？](https://github.com/lietoumai/Tech-article/issues/23)
+
+[以数据库思维理解区块链](https://www.cnblogs.com/zourui4271/p/8969621.html)
+
+[什么是边缘计算](https://blog.csdn.net/gui951753/article/details/80952907)
+
+[量子计算入门](https://blog.csdn.net/libing403/article/details/73555583)
+
+[量子客](https://www.qtumist.com/)
+
+[神经网络与深度学习](https://nndl.github.io/)
+
+[Serverless 应用开发指南](https://serverless.ink/)
+
+[趣学HASKELL](https://learnyoua.haskell.sg/)
+
+[反应式宣言](https://www.reactivemanifesto.org/zh-CN)
+
 ## *会有一些技术论坛*
+[Twitter](https://twitter.com/home)
+
+[Dev.to](https://dev.to)
+
 [Stack Overflow](http://stackoverflow.com/)
+
+[Elitedatascience](https://elitedatascience.com/)
+
+[Dzone](https://dzone.com/)
 
 [Reddit](http://www.reddit.com/r/programming)
 
@@ -378,13 +509,13 @@
 
 [SitePoint](http://www.sitepoint.com/forums/)
 
-[CodeProject](http://www.codeproject.com/)
-
 [Treehouse](https://teamtreehouse.com/forum)
 
 [Hacker News](https://news.ycombinator.com/news)
 
 [DZone](http://www.dzone.com/links/index.html)
+
+[OpenSource](https://opensource.com/)
 
 [Bytes](http://bytes.com/)
 
@@ -393,6 +524,8 @@
 [Dream In Code](http://www.dreamincode.net/forums/)
 
 [Tech.Pro](http://tech.pro/)
+
+[Code project](https://www.codeproject.com/)
 
 [Pineapple](http://pineapple.io/)
 
@@ -403,6 +536,70 @@
 [Techcrunch](https://techcrunch.com/)
 
 [BookDownload](https://www.allitebooks.com)
+
+[programcreek](https://www.programcreek.com/)
+
+## *会有一些海外招聘网站*
+
+[Linkedin](https://www.linkedin.com)
+
+[Weworkremotely](https://weworkremotely.com)
+
+[Topcoder](https://www.topcoder.com)
+
+[Ziprecruiter](https://www.ziprecruiter.com/)
+
+[Glassdoor](https://www.glassdoor.com/index.html)
+
+[Monster](https://www.monster.com/)
+
+[Reed](https://www.reed.co.uk/)
+
+[Jobsite](https://www.jobsite.co.uk/)
+
+[Jobs](https://www.jobs.co.uk/)
+
+[Dice](https://www.dice.com)
+
+[Indeed](https://cn.indeed.com/?r=us)
+
+[Simplyhired](https://www.simplyhired.com/)
+
+[Jobserve](https://www.jobserve.com/hk/en/Job-Search/)
+
+[Github](https://jobs.github.com/)
+
+[Stackoverflow](https://stackoverflow.com/jobs)
+
+[Totaljobs](https://www.totaljobs.com/)
+
+[Jobbank](https://www.jobbank.gc.ca/home)
+
+[Workopolis](https://www.workopolis.com/en/)
+
+[Kijiji](https://www.kijiji.ca/)
+
+[Targetjobs](https://targetjobs.co.uk/)
+
+[Seek](https://www.seek.com.au/)
+
+[Jobsearch](https://jobsearch.gov.au/)
+
+[Adzuna](https://www.adzuna.com.au/)
+
+[Aps](https://www.apsjobs.gov.au/)
+
+[Trademe](https://www.trademe.co.nz/jobs/)
+
+[Myjobspace](https://www.myjobspace.co.nz/)
+
+[Newkiwis](https://www.newkiwis.co.nz/)
+
+[Workhere](https://www.workhere.co.nz)
+
+[Working](https://www.workingin-newzealand.com/)
+
+[Careerone](https://www.careerone.com.au/)
 
 ## *会有一些鸡汤和反鸡汤*
 [职业教练的分享：你每天需要告诉自己的15件事](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/ni-mei-tian-xu-yao-gao-su-zi-ji-de-15-jian-shi.html)
@@ -427,37 +624,77 @@
 [猎头七宗罪](https://github.com/lietoumai/Hunter/issues/4)
 
 [如何引起猎头的注意](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/xi-tou-xiang-guan/ru-he-yin-qi-xi-tou-de-zhu-yi.html)
-***
 
-[2017总结](https://github.com/lietoumai/Hunter/issues/47)
-***
-
-## *会有一些读后感*
-[如何做更好的决策](https://github.com/lietoumai/Hunter/issues/2)
-
-[深度工作](https://github.com/lietoumai/In-a-word/issues/2)
+[新经济环境下的顾问生存之道](http://lietoumai.com/article/13)
 
 ***
 
-## *会有好书推荐*
-[中文&英文](https://github.com/lietoumai/Book/projects)
+## *女性*
+[生完孩子后如何尽快回到工作岗位？](https://github.com/lietoumai/Career/issues/47)
+
+## *会有好书&免费书推荐*
+[Pragprog](https://pragprog.com/)
+
+[周读](http://www.ireadweek.com/)
+
+[Kindel电子书分享](https://kindle.51nazhun.pub/)
+
+[Epubw](https://epubw.com/)
+
+[Gutenberg](https://www.gutenberg.org//)
+
+[Z-Library](https://z-lib.org/)
+
+[8freebooks](https://www.8freebooks.net/)
+
+[鸠摩搜书](https://www.jiumodiary.com/)
+
+[智奇搜书](https://www.zqbook.top/)
+
+[PDF之家](https://www.pdfzj.com/)
+
+[Epubee](http://cn.epubee.com/books/)
+
+[Haodoo](http://haodoo.net/)
+
+[子午书简](https://5kindle.com/)
+
+[云海电子图书馆](http://www.pdfbook.cn/)
+
+[科塔学术](https://site.sciping.com/)
+
+[西林街](https://xilinjie.cc/)
+
+[万千集合站](http://www.hejizhan.com/bbs/)
+
+[搬书匠](http://www.banshujiang.cn/)
 
 ## *会有法律相关*
-[关于劳动仲裁](http://www.360doc.com/content/16/0125/22/21180418_530550331.shtml)
+[一文了解竞业协议](https://lietoumai.gitbooks.io/the-story-of-lietoumai/content/yi-wen-le-jie-jing-ye-xie-yi.html)
 
-## *一言以蔽之*
-[如何给很忙的人写邮件](https://github.com/lietoumai/In-a-word/issues/1)
+## *Insight*
+[哈佛商学院](https://hbr.org/)
 
-[深度学习这本书到底在说啥](https://github.com/lietoumai/In-a-word/issues/2)
+[布斯商学院](http://review.chicagobooth.edu/)
 
-[如何掌控人生－掌控你的注意力](https://github.com/lietoumai/In-a-word/issues/3)
+[斯坦福商学院](https://www.gsb.stanford.edu/insights)
 
-## *奇文共赏*
-[五四运动造就的识字农民才是这么多热点事件的根源](https://github.com/lietoumai/Spectacular-article/issues/1)
-***
+[斯隆管理学院](http://mitsloan.mit.edu/)
 
-## *精品博客推荐*
+[剑桥商学院](https://insight.jbs.cam.ac.uk/)
+
+[牛津商学院](https://www.sbs.ox.ac.uk/news/)
+
+[Insead](https://knowledge.insead.edu/)
+
+[IMD](https://www.imd.org/research-knowledge/)
+
+[CNBC](https://www.cnbc.com/make-it/)
+
+## *博客推荐*
 [Yin神](http://www.yinwang.org/)
+
+[鸟窝](https://colobu.com/)
 
 [鸟哥](http://www.laruence.com/)
 
@@ -467,9 +704,15 @@
 
 [霸爷](http://blog.yufeng.info/)
 
+[林德熙](https://lindexi.gitee.io/lindexi/)
+
+[张茄子](https://io-meter.com//)
+
+[00](https://www.uegeek.com/)
+
 [谢大](https://github.com/astaxie)
 
-[大海无量](http://h12.me/)
+[大海无量](https://h12.io/)
 
 [司徒正美](http://www.cnblogs.com/rubylouvre/)
 
@@ -483,9 +726,27 @@
 
 [民工叔](https://github.com/xufei/blog)
 
+[学而时嘻之](https://www.geekonomics10000.com)
+
 [寒冬](http://winter-cn.cnblogs.com/)
 
+[四火](https://www.raychase.net/aboutme)
+
 [并发编程](http://ifeve.com/)
+
+[A闪](https://ashan.org/)
+
+[Se7en](https://se7en.wang/2018/10/08/how-i-gain-tech-news/)
+
+[夏天的森林](http://www.cnblogs.com/sharpxiajun/archive/2015/02.html)
+
+[hsm_computer](https://www.cnblogs.com/JavaArchitect)
+
+[Tony Bai](https://tonybai.com/)
+
+[HuiHui](http://www.cnblogs.com/yanghuahui/)
+
+[CSDN的博客专家们](https://blog.csdn.net/honour/experts.html)
 
 [dirlt](https://dirtysalt.github.io/)
 
